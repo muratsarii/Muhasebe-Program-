@@ -1,0 +1,4 @@
+F:\Yeni klasör\denemeler\OOP4_muhasebe\obj\Debug\OOP4_muhasebe.csprojAssemblyReference.cache
+F:\Yeni klasör\denemeler\OOP4_muhasebe\obj\Debug\OOP4_muhasebe.csproj.CoreCompileInputs.cache
+F:\KursOrnekler\denemeler\OOP4_muhasebe\obj\Debug\OOP4_muhasebe.csprojAssemblyReference.cache
+F:\KursOrnekler\denemeler\OOP4_muhasebe\obj\Debug\OOP4_muhasebe.csproj.CoreCompileInputs.cache
